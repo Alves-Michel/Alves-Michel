@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8007e3&height=120&section=header"/>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alves-Michel&show_icons=true&count_private=true&hide_border=true&title_color=8007e3&icon_color=8007e3&text_color=FFF&bg_color=0d1117" alt="Michel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alves-Michel&layout=compact&hide_border=true&title_color=8007e3&text_color=FFF&bg_color=0d1117" />
+  
+<div align="center">
+
 ### Olá! Eu sou o Michel Alves 👋
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-oliveira-b11890268/)
