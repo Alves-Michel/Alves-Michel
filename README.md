@@ -10,7 +10,7 @@
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-oliveira-b11890268/)
 
-![Michel GitHub stats](https://github-readme-stats.vercel.app/api?username=Alves-Michel&show_icons=true&theme=radical)
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alves-Michel&bg_color=0d1117&color=7300d1&line=8007e3&point=8007e3&area=true&hide_border=true)
 
