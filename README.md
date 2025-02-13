@@ -23,6 +23,6 @@
 </div>
 
 ### Apaixonado por tecnologia, sempre em busca de evolução.
-### Estou cursando o 4° Semestre de Ciência da Computação, na UNICSUL.
+### Estou cursando o 6° Semestre de Ciência da Computação, na UNICSUL.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8007e3&height=120&section=footer"/>
